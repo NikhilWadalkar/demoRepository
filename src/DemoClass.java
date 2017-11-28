@@ -5,6 +5,7 @@ public class DemoClass {
 		
 		System.out.println("Hello Git Hub");
 
+		System.out.println("I have made few changes and want to upload to GitHub");
 	}
 
 }
